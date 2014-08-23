@@ -1,0 +1,180 @@
+# EESchema Netlist Version 1.1 created  13/05/2011 10:33:45
+(
+ ( /4DCCF909 $noname  P27 CONN_1 {Lib=CONN_1}
+  (    1 ? )
+ )
+ ( /4DCCE91E $noname  P36 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE91D $noname  P37 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE917 $noname  P34 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE916 $noname  P35 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE15C $noname  P16 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE159 $noname  P33 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE119 $noname  P1 CONN_1 {Lib=CONN_1}
+  (    1 N-000005 )
+ )
+ ( /4DCCE118 $noname  P2 CONN_1 {Lib=CONN_1}
+  (    1 N-000005 )
+ )
+ ( /4DCCE116 $noname  P4 CONN_1 {Lib=CONN_1}
+  (    1 N-000004 )
+ )
+ ( /4DCCE115 $noname  P5 CONN_1 {Lib=CONN_1}
+  (    1 N-000004 )
+ )
+ ( /4DCCE114 $noname  P6 CONN_1 {Lib=CONN_1}
+  (    1 N-000004 )
+ )
+ ( /4DCCE113 $noname  P7 CONN_1 {Lib=CONN_1}
+  (    1 N-000003 )
+ )
+ ( /4DCCE112 $noname  P8 CONN_1 {Lib=CONN_1}
+  (    1 N-000003 )
+ )
+ ( /4DCCE111 $noname  P9 CONN_1 {Lib=CONN_1}
+  (    1 N-000003 )
+ )
+ ( /4DCCE110 $noname  P10 CONN_1 {Lib=CONN_1}
+  (    1 N-000002 )
+ )
+ ( /4DCCE10F $noname  P11 CONN_1 {Lib=CONN_1}
+  (    1 N-000002 )
+ )
+ ( /4DCCE10E $noname  P12 CONN_1 {Lib=CONN_1}
+  (    1 N-000002 )
+ )
+ ( /4DCCE10D $noname  P13 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE10C $noname  P14 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE10B $noname  P15 CONN_1 {Lib=CONN_1}
+  (    1 N-000001 )
+ )
+ ( /4DCCE0E8 $noname  P32 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE0E5 $noname  P31 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE0E3 $noname  P30 CONN_1 {Lib=CONN_1}
+  (    1 N-000010 )
+ )
+ ( /4DCCE0E1 $noname  P29 CONN_1 {Lib=CONN_1}
+  (    1 N-000009 )
+ )
+ ( /4DCCE0DF $noname  P28 CONN_1 {Lib=CONN_1}
+  (    1 N-000009 )
+ )
+ ( /4DCCE0DC $noname  P26 CONN_1 {Lib=CONN_1}
+  (    1 N-000008 )
+ )
+ ( /4DCCE0DA $noname  P25 CONN_1 {Lib=CONN_1}
+  (    1 N-000008 )
+ )
+ ( /4DCCE0D9 $noname  P24 CONN_1 {Lib=CONN_1}
+  (    1 N-000008 )
+ )
+ ( /4DCCE0D7 $noname  P23 CONN_1 {Lib=CONN_1}
+  (    1 N-000007 )
+ )
+ ( /4DCCE0D5 $noname  P22 CONN_1 {Lib=CONN_1}
+  (    1 N-000007 )
+ )
+ ( /4DCCE0D2 $noname  P21 CONN_1 {Lib=CONN_1}
+  (    1 N-000007 )
+ )
+ ( /4DCCE0CE $noname  P20 CONN_1 {Lib=CONN_1}
+  (    1 N-000006 )
+ )
+ ( /4DCCE0CB $noname  P19 CONN_1 {Lib=CONN_1}
+  (    1 N-000006 )
+ )
+ ( /4DCCE0C8 $noname  P18 CONN_1 {Lib=CONN_1}
+  (    1 N-000006 )
+ )
+ ( /4DCCDCEB $noname  BT1 BATTERY {Lib=BATTERY}
+  (    1 N-000010 )
+  (    2 N-000001 )
+ )
+ ( /4DCCDCE1 $noname  D1 LED {Lib=LED}
+  (    1 N-000001 )
+  (    2 N-000010 )
+ )
+)
+*
+{ Allowed footprints by component:
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$endfootprintlist
+}
+{ Pin List by Nets
+Net 1 "" ""
+ P15 1
+ BT1 2
+ D1 1
+ P34 1
+ P35 1
+ P14 1
+ P13 1
+ P16 1
+Net 2 "" ""
+ P12 1
+ P11 1
+ P10 1
+Net 3 "" ""
+ P9 1
+ P8 1
+ P7 1
+Net 4 "" ""
+ P6 1
+ P5 1
+ P4 1
+Net 5 "" ""
+ P1 1
+ P2 1
+Net 6 "" ""
+ P18 1
+ P19 1
+ P20 1
+Net 7 "" ""
+ P21 1
+ P22 1
+ P23 1
+Net 8 "" ""
+ P24 1
+ P25 1
+ P26 1
+Net 9 "" ""
+ P28 1
+ P29 1
+Net 10 "" ""
+ D1 2
+ P33 1
+ P37 1
+ P36 1
+ BT1 1
+ P32 1
+ P31 1
+ P30 1
+}
+#End

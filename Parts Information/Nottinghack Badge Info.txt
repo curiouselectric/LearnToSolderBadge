@@ -1,0 +1,68 @@
+Parts required and costs for the nottinghack badge kit thing.
+
+
+PCB - done by Beta Layout
+
+Battery clip - for CR2032:
+Rapid: Code: 18-3585	Cost: £0.312 100+
+Farnell: code: 908654	Cost: £0.442 100+
+Digikey UK: Part Keystone 3003 or BK-888: BK-888-ND cost: £0.1674 100+
+CHEAPEST:
+Rapid: 18-3785 	£0.131 for 100+
+
+
+Battery (type CR2032):
+ebay: 100pcs around £10 = 10p each
+http://cgi.ebay.co.uk/100x-3V-Lithium-CR2032-CR-2032-Cell-Button-Coin-Battery-/290527377732?_trksid=p4340.m263&_trkparms=algo%3DDLSL%252BSIC%26its%3DI%26itu%3DUCI%252BIA%252BUA%252BFICS%252BUFI%252BDDSIC%26otn%3D8%26pmod%3D180649856835%252B180649856835%26po%3D%26ps%3D63%26clkid%3D38332866077294332
+http://cgi.ebay.co.uk/100-x-3V-CR2032-LITHIUM-BUTTON-CELL-BATTERIES-BATTERY-/170602073716?pt=UK_ConsumerElectronics_Batteries_SM&hash=item27b8ad0e74
+
+
+LED - colour change type:
+Rapid: 55-1906	£0.4326 100+
+
+ebay: 30 for £5.99 + 1 = £6.99 = £0.24 each
+http://cgi.ebay.co.uk/30-ULTRA-BRIGHT-5mm-COLOUR-CHANGING-RGB-LEDs-5000-MCD-/390125860357?pt=UK_BOI_Electrical_Components_Supplies_ET&hash=item5ad5503605
+Same seller - £4.90 for 30pcs 
+http://cgi.ebay.co.uk/30-ULTRA-BRIGHT-5mm-FAST-COLOUR-CHANGING-RGB-LEDs-/160464005016?pt=UK_BOI_Electrical_Components_Supplies_ET&hash=item255c666798
+area 51 products (www.area51products.com) - cheapest £3.50 for 30pcs.
+
+
+
+Pin for badge:
+http://www.ebay.co.uk/itm/BOX-OF-13MM-1-2-BRIGHT-PANEL-PINS-APPROX-220-/120919549223?pt=UK_DIY_Material_Nails_Fixing_MJ&hash=item1c275de527
+Someone else with the same problem:
+http://contact.ebay.co.uk/ws/eBayISAPI.dll?ShowAllQuestions&ShowASQAlways=1&frm=284&iid=170591842535&ssPageName=PageAskSellerQuestion_VI&redirect=0&requested=jayesselle
+
+Use drawing pins?
+
+Use 13mm panel pins.
+From Stones if possible.
+
+
+Butterfly clasp/Stud fitting for badge:
+ebay: £4.99 for 100pcs = £0.05p each
+http://cgi.ebay.co.uk/100-qty-BADGE-CLASPS-BUTTERFLY-CLIPS-MILITARY-CLUTCH-/170391038461?pt=UK_Collectables_Militaria_LE&hash=item27ac18e9fd
+ebay: £3 for 100pcs
+http://www.ebay.co.uk/itm/100-qty-PIN-BADGE-CLASPS-BUTTERFLY-CLIPS-SILVER-NICKEL-/180843555570?pt=UK_Collectables_Militaria_LE&hash=item2a1b1daaf2
+
+
+Total cost of parts per badge for 100pcs
+Batt clips: 	£37.56
+Batts:		£12.00
+LEDs:		£16.50
+Pins:		??
+Clasps:		£4.99
+
+Total:		£71.50
+
+
+SMD parts:
+These prices are plus VAT:
+
+100k resistors Rapid - 72-1437	£0.15 for 100pcs
+10uf capacitors RS - 7407546	£0.06 each
+0 ohm ressistors Rapid - 72-1207 £0.15 for 100pcs
+S0232 transistor NPN  RS - £0.012 each for 200+pcs
+LED green - RS 466 3908 £0.06 for 40+
+LED red - RS 466 3914 £0.06 for 40+
+

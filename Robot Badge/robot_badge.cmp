@@ -1,0 +1,101 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/08/2014 17:41:19
+
+BeginCmp
+TimeStamp = /4FBA1C6F;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = Batt_conn_20mm_largepad;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEDDB;
+Reference = C1;
+ValeurCmp = 47u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEDDD;
+Reference = C2;
+ValeurCmp = 47u;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FBA1BD7;
+Reference = D1;
+ValeurCmp = LED_TH;
+IdModule  = LED-5MM_larg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FBA1C9E;
+Reference = D2;
+ValeurCmp = LED_SMD;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE03;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE06;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FBA1DDB;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_badge_no_edge;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FBFAE05;
+Reference = Q1;
+ValeurCmp = NPN_S0323;
+IdModule  = SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FBFADFF;
+Reference = Q2;
+ValeurCmp = NPN_S0323;
+IdModule  = SOT323;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE0C;
+Reference = R1;
+ValeurCmp = 470;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE0E;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE11;
+Reference = R3;
+ValeurCmp = 10k;
+IdModule  = SM1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /4D2AEE13;
+Reference = R4;
+ValeurCmp = 470;
+IdModule  = SM1206;
+EndCmp
+
+EndListe

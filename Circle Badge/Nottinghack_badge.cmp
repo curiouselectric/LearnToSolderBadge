@@ -1,0 +1,262 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/08/2014 17:53:07
+
+BeginCmp
+TimeStamp = /4DCCDCEB;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = Batt_conn_20mm_Rapid183785;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCDCE1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM_larg_pad;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE119;
+Reference = P1;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE118;
+Reference = P2;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE116;
+Reference = P4;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE115;
+Reference = P5;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE114;
+Reference = P6;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE113;
+Reference = P7;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE112;
+Reference = P8;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE111;
+Reference = P9;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE110;
+Reference = P10;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE10F;
+Reference = P11;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE10E;
+Reference = P12;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE10D;
+Reference = P13;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE10C;
+Reference = P14;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE10B;
+Reference = P15;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE15C;
+Reference = P16;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0C8;
+Reference = P18;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0CB;
+Reference = P19;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0CE;
+Reference = P20;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0D2;
+Reference = P21;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0D5;
+Reference = P22;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0D7;
+Reference = P23;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0D9;
+Reference = P24;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0DA;
+Reference = P25;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0DC;
+Reference = P26;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCF909;
+Reference = P27;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_badge_no_edge;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0DF;
+Reference = P28;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0E1;
+Reference = P29;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0E3;
+Reference = P30;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0E5;
+Reference = P31;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE0E8;
+Reference = P32;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE159;
+Reference = P33;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE917;
+Reference = P34;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE916;
+Reference = P35;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE91E;
+Reference = P36;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /4DCCE91D;
+Reference = P37;
+ValeurCmp = CONN_1;
+IdModule  = 1pin_0_8mm;
+EndCmp
+
+EndListe
